@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "metrohero.thewca.us",
+        "sha256_cert_fingerprints": ["7C:31:96:9A:2D:E7:6D:89:9F:ED:6E:97:5B:02:E6:4C:D4:48:8F:A7:DC:A5:39:48:7D:A7:52:1A:D0:7C:7D:A0"]
+      }
+    }]
